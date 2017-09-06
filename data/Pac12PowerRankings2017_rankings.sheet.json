@@ -3,62 +3,72 @@
     "week": 1,
     "ranking": 1,
     "team": "Washington",
-    "blurb": "It took awhile, but the Huskies overcame a sluggish first half in which they led 10-7 at the break and overwhelmed Rutgers in the second half for a satisfying 30-14 nonconference road win. UW must shore up the running game, which gained just 84 yards and find alternate downfield receiving targets other than Dante Pettis. This week: Against Montana."
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>It took awhile, but the Huskies overcame a sluggish first half in which they led 10-7 at the break and overwhelmed Rutgers in the second half for a satisfying 30-14 nonconference road win. UW must shore up the running game, which gained just 84 yards and find alternate downfield receiving targets other than Dante Pettis.<p><strong>This week:</strong>&nbsp;Against Montana."
   },
   {
     "week": 1,
     "ranking": 2,
     "team": "USC",
-    "blurb": "The Trojans led 35-31 with 4:37 remaining before a pair of late touchdowns sealed a 49-31victory over Western Michigan at The Coliseum. The Trojans won’t stay unbeaten for long unless they fix a leaky run defense that allowed 263 yards. QB Sam Darnold tossed 2 INTs and failed to throw a touchdown in his first start, which put a chill on his Heisman Trophy campaign. This week: Against Stanford."
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>The Trojans led 35-31 with 4:37 remaining before a pair of late touchdowns sealed a 49-31victory over Western Michigan at The Coliseum. The Trojans won’t stay unbeaten for long unless they fix a leaky run defense that allowed 263 yards. QB Sam Darnold tossed 2 INTs and failed to throw a touchdown in his first start, which put a chill on his Heisman Trophy campaign. <p><strong>This week:</strong>&nbsp; Against Stanford."
   },
   {
     "week": 1,
     "ranking": 3,
-    "team": "Stanford"
+    "team": "Stanford",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>It’s easy to forget the Cardinal pounded Rice 62-7 in its opener because it was on August 27 and the game was played on the other side of the globe. But Stanford did have the most complete season debut in the conference. The defense nearly had a shutout, RB Bryce Love ran for 180 yards and QB Keller Chryst passed for 253. <p><strong>This week:</strong>&nbsp; At USC.\n "
   },
   {
     "week": 1,
     "ranking": 4,
-    "team": "UCLA"
+    "team": "UCLA",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>This is probably a little too high for the Bruins, but did you see that incredible 45-44 win over Texas A&M? The Bruins trailed 44-10 late in the third quarter and had a 0.5 probability to win the game. It was the second largest comeback in NCAA history thanks in large part to QB Josh Rosen. However, can Rosen’s heroics continue to save a defense that allowed 382 yards rushing? <p><strong>This week:</strong>&nbspAgainst Hawaii."
   },
   {
     "week": 1,
     "ranking": 5,
-    "team": "Washington State"
+    "team": "Washington State",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>The long wait is over. Mike Leach finally won a season opener with the Cougars. And QB Luke Falk (33 of 39 for 311 yards, 3 TDs and 0 INT) looked terrific in an 31-0 victory against overmatched FCS opponent Montana State. WSU allowed just 28 passing yards, which is the fewest since 1996. <p><strong>This week:</strong>&nbsp Against Boise State."
   },
   {
     "week": 1,
     "ranking": 6,
-    "team": "California"
+    "team": "California",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>No one expects the Golden Bears to finish in the top half of the rankings at the end of the season. But then, no one gave them much of a chance to win 35-30 at North Carolina. Don’t tell new coach Justin Wilcox that this is a rebuilding year. The defense, which allowed 440 yards, still needs a lot of work. But if new QB Ross Bowers (363 yards, 4 TDs, 2 INTs) can cut down on the miscues, then maybe Cal can make it to a bowl game. <p><strong>This week:</strong>&nbsp Against Weber State."
   },
   {
     "week": 1,
     "ranking": 7,
-    "team": "Colorado"
+    "team": "Colorado",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>The Buffaloes defense was supposed to struggle after losing its coordinator Jim Leavitt to Oregon and needing to replace eight departing starters. But Colorado nearly shutout Colorado State in a 17-3 victory a week after the Rams rolled up 58 points on Oregon State. RB Phillip Lindsay (19 carries, 140 yards, 1 TD) is a gem. <p><strong>This week:</strong>&nbsp Against Texas State."
   },
   {
     "week": 1,
     "ranking": 8,
-    "team": "Oregon"
+    "team": "Oregon",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>The Willie Taggart era started with a bang – or more precisely a 100-yard kickoff return from Tony Brooks-James. The Ducks trounced Southern Utah 77-21 – the most points since 1916 – while piling up 703 yards. They scored 21 points in each of the first three quarters. RB Royce Freeman (23 carries, 150 yards, 4 TDs) and QB Justin Herbert (281 passing yards) looked incredible. But it was against Southern Utah. <p><strong>This week:</strong>&nbspAgainst Nebraska."
   },
   {
     "week": 1,
     "ranking": 9,
-    "team": "Utah"
+    "team": "Utah",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>It’s just one game – against an FCS opponent at that  – but maybe, just maybe the Utes have found a quarterback in Tyler Huntley. He completed 23 of 32 passes for 237 yards, 1 TD and 1 INT during a 37-16 victory. Keep in mind, Rosen had more yards in the fourth quarter alone. But this is Utah. And the Utes have been looking for a QB since Brian Johnson left in 2008. <p><strong>This week:</strong>&nbsp; At BYU."
   },
   {
     "week": 1,
     "ranking": 10,
-    "team": "Arizona"
+    "team": "Arizona",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>The Wildcats ran wild (506 yards) over Northern Arizona for a 62-24 victory. No real surprise there. But what about the passing game? QB Brandon Dawkins (7 for 13, 89 yards, 1 TD) doesn't look as if he’s progressed much as a passer. Another potential problem, the Cats allowed 377 passing yards. <p><strong>This week:</strong>&npsp Against Houston."
   },
   {
     "week": 1,
     "ranking": 11,
-    "team": "Arizona State"
+    "team": "Arizona State",
+    "blurb": "<strong>Record:</strong>&nbsp;1-0<p>Depth could be an issue for the Sun Devils, which used just 11 defensive players during the first half of their 37-31 win over New Mexico State. Coach Todd Graham: “When we've got guys we can rotate, we're going to rotate. Until they perform in practice, the 1s are going to play a lot of plays.\" Good luck with that. <p><strong>This week:</strong>&nbsp; Against San Diego State."
   },
   {
     "week": 1,
     "ranking": 12,
-    "team": "Oregon State"
+    "team": "Oregon State",
+    "blurb": "<strong>Record:</strong>&nbsp;1-1<p>If the Beavers didn’t make a 17-yard FG with 1:08 left and Portland State hadn’t missed a game-tying boot as time expired, then OSU would be 0-2 and staring at a daunting schedule that includes three straight ranked Pac-12 opponents (WSU, UW, USC) when league play begins next week. The Beavers allowed 525 yards in opener to Colorado State and 515 to PSU. <p><strong>This week:</strong>&nbsp; Against Minnesota."
   }
 ]
